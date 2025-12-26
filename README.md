@@ -1,0 +1,2 @@
+# Therapy-Adherence-Patient-Engagement-Analytics-Power-BI-Project-
+This project analyzed patient therapy adherence and engagement using historical session-level data. I built an analytics layer to track progression, adherence, drop-offs, and cohorts across programs. Using SQL, Python, and BI dashboards, raw data was converted into clear metrics to support clinical, product, and operational decisions.
